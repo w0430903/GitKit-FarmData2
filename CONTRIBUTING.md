@@ -93,7 +93,7 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
   * Pull the most recent _upstream_ version of the _main branch_.
   * Merge the updated _main branch_ into your _feature branch_.
   * Push your _feature branch_ to the _origin_.
-  * Make a Pull Request for your _feature branch_ to the _upstream_.  
+  *[ Make a Pull Reques](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for your _feature branch_ to the _upstream_.  
 
 [Clone]: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 [FarmData2 Repository]: https://github.com/DickinsonCollege/FarmData2
