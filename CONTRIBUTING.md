@@ -22,6 +22,8 @@ There are many ways to participate in FarmData2. Some of them are listed below.
 
 Having a running version of FarmData2 is a prerequisite for many of the forms of participation.  The [Install Directions] give step by step instructions for getting FarmData2 up and running.
 
+- Step by step installation guide
+
 [Install Directions]: INSTALL.md
 
 #### Bug Reports ####
