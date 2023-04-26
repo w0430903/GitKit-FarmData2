@@ -70,9 +70,11 @@ The above is not an exhaustive list of ways to participate in FarmData2. For som
 
 Interacting with FarmData2 requires a basic familiarity with git and GitHub. FarmData2 development uses a fairly standard web technology stack including HTML, CSS, Bootstrap, JavaScript, and Vue.js. The front-end accesses FarmData2 data through the [FarmOS API](https://farmos.org/development/api/) using the [Axios](https://github.com/axios/axios) library. End-to-end and component testing is done using the [Cypress framework](https://www.cypress.io/).
 
-If you are unfamiliar with one or more of these technologies the [ONBOARDING](ONBOARDING.md) document provides additional information about each, as well as resources and activities for learning about them.
+If you are unfamiliar with one or more of these technologies, the [ONBOARDING](ONBOARDING.md) document provides additional information about each as well as resources and activities for learning about them.
 
 ## Workflow ##
+change made!!!!!!!!!!!!!!!!!!!
+
 
 FarmData2 generally uses the [GitHub flow](https://guides.github.com/introduction/flow/) branching workflow and accepts contributions via Pull Requests. If you are new to git based branching workflows you may find this [in depth description GitHub flow](https://githubflow.github.io/) helpful.
 
